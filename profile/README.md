@@ -3,7 +3,7 @@
 ![Language: Portuguese](https://img.shields.io/badge/Language-Portuguese-brightgreen.svg)
 
 <center>
-![Arvore dos Saberes](./arvore_dos_saberes.jpg)
+<img style="width:100%;" alt="Arvore dos Saberes" src="./arvore_dos_saberes.jpg">
 </center>
 
 # 👉 Bem-vindo(a) ao Instituto Técnico e Científico Árvore dos Saberes 
