@@ -76,17 +76,17 @@ O Árvore dos Saberes é um projeto de instituto técnico-científico com foco e
 - Estatuto social: a confirmar
 - Site oficial: https://arvoredossaberes.com.br
 - E-mail institucional: admin@arvoredossaberes.com.br
-- Redes sociais: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/company/arvoredossaberes)
-
-* [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ArvoreDosSaberes)
-* [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/y5JMEW6t)
-* [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/arvoredossaberes)
-* [![YouTube (Basicão da Eletrônica)](https://img.shields.io/badge/YouTube%20(Basic%C3%A3o%20da%20Eletr%C3%B4nica)-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@BasicaoDaEletronica)
-* [![YouTube (Basicão dos Microcontroladores)](https://img.shields.io/badge/YouTube%20(Basic%C3%A3o%20dos%20Microcontroladores)-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@BasicaoDosMicrocontroladores)
-* [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/arvoredossaberes)
-* [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/arvoredossaberes)
-    • [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/arvoredossaberes)
-    • [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IIejcyMX22NAxO6m55KDXV)
+- Redes sociais:
+   * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/company/arvoredossaberes)
+   * [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ArvoreDosSaberes)
+   * [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/y5JMEW6t)
+   * [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/arvoredossaberes)
+   * [![YouTube (Basicão da Eletrônica)](https://img.shields.io/badge/YouTube%20(Basic%C3%A3o%20da%20Eletr%C3%B4nica)-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@BasicaoDaEletronica)
+   * [![YouTube (Basicão dos Microcontroladores)](https://img.shields.io/badge/YouTube%20(Basic%C3%A3o%20dos%20Microcontroladores)-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@BasicaoDosMicrocontroladores)
+   * [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/arvoredossaberes)
+   * [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/arvoredossaberes)
+   * [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/arvoredossaberes)
+   * [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IIejcyMX22NAxO6m55KDXV)
 
 ## Contato
 
